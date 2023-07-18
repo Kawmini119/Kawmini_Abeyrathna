@@ -2,7 +2,7 @@
 <h3 align="center">A passionate training Software Engineer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstZYNAsssLmMpQOBgFo6mI4d47NG39wCa9RTjCiT-IdWE1vXiWVl1u14JUBctK4M6tbY&usqp=CAU">
 
-- 🤝 I’m currently studying software Engineering **SLTC Research University of padukka, Colombo**
+- 🤝 I’m currently studying software Engineering at **SLTC Research University of padukka, Colombo**
 
 - 🌱 I’m currently learning **artificial intelligent, computer science, data analysis, data base..**
 
